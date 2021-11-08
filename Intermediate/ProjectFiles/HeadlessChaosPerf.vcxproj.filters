@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Target.cs" />
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Build.cs" />
+    <Filter Include="Private">
+<<<<<<< HEAD
+      <UniqueIdentifier>{5EA982C6-1823-4916-8C78-BF1B6428F86C}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{9F30C329-F6F0-49C9-B0D1-666B22A940C1}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\HeadlessChaosPerfApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\ChaosPerf">
+<<<<<<< HEAD
+      <UniqueIdentifier>{B8334DEE-0786-4B9E-834E-1865D910BC08}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{FAE4497E-5FAF-4AC7-9FEB-72D95560475A}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerf.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfLog.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfProfiling.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfTest.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <Filter Include="Private\ChaosPerf\PerfTests">
+<<<<<<< HEAD
+      <UniqueIdentifier>{94598459-96B3-4C20-93B4-138C5D2D2D1F}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{92A4471A-7910-4521-89D2-FD25D8D233D4}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\PerfTests\ChaosPerfProfilerTests.cpp">
+      <Filter>Private\ChaosPerf\PerfTests</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

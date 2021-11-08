@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Target.cs" />
+    <Filter Include="Config">
+<<<<<<< HEAD
+      <UniqueIdentifier>{AF7F3015-1FBD-4EB1-802C-535503B92AFF}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{5020CE7C-A11D-46B0-95A5-AFD1F9F3BCF5}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Programs\UnrealHeaderTool\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\UnrealHeaderTool.Build.cs" />
+    <Filter Include="Private">
+<<<<<<< HEAD
+      <UniqueIdentifier>{BD3938A2-87F7-49C4-8AA2-E56838CF7726}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{BF87A2B7-FD93-4597-BD60-1FD18612F14F}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\BaseParser.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\BaseParser.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ClassDeclarationMetaData.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ClassDeclarationMetaData.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Classes.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Classes.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ClassMaps.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ClassMaps.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\CodeGenerator.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\FileLineException.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\FileLineException.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\GeneratedCodeVersion.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderParser.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderParser.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderProvider.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\HeaderProvider.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\IScriptGeneratorPluginInterface.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Manifest.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Manifest.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\NativeClassExporter.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ParserClass.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ParserClass.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ParserHelper.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\ParserHelper.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Scope.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Scope.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\SimplifiedParsingClassInfo.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\StringUtils.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\StringUtils.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnderlyingEnumType.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderTool.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolGlobals.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolMain.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolStats.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealHeaderToolStats.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealSourceFile.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealSourceFile.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\UnrealTypeDefinitionInfo.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Specifiers">
+<<<<<<< HEAD
+      <UniqueIdentifier>{2836CD29-3C9C-4515-9AB8-8AD5AB298760}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{063A7D99-D168-49B1-B9CC-4300710135BF}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\CheckedMetadataSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\CheckedMetadataSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\ClassMetadataSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\ClassMetadataSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\EnumSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\EnumSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\FunctionSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\FunctionSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\InterfaceSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\InterfaceSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\SpecifierArrays.cpp">
+      <Filter>Private\Specifiers</Filter>
+    </ClCompile>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\StructSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\StructSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\VariableSpecifiers.def">
+      <Filter>Private\Specifiers</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers\VariableSpecifiers.h">
+      <Filter>Private\Specifiers</Filter>
+    </ClInclude>
+    <Filter Include="Public">
+<<<<<<< HEAD
+      <UniqueIdentifier>{C991904B-DBBF-444B-B67B-9B31E68FDF1D}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{EE8DB3F2-9C10-44B6-8127-B0406887EF59}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Public\IScriptGeneratorPluginInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+<<<<<<< HEAD
+      <UniqueIdentifier>{90571FA7-7C94-4F15-88C5-02DC2567D7C7}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{12F7D13D-CC76-407D-B536-4E60DDF22EE2}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <Manifest Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging.manifest">
+      <Filter>Resources</Filter>
+    </Manifest>
+    <Filter Include="Resources\UHTDebugging">
+<<<<<<< HEAD
+      <UniqueIdentifier>{5FADFFDF-1DA9-4156-B7EA-09354774E0C5}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{0C379411-A337-4462-893B-1CD9C6A03093}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\DocumentationObjects.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\EnumOnlyHeader.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\RigVMStructHeader.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\StructOnlyHeader.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestDeprecatedObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestInterface.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestInterfaceObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestObject.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\UnrealEngine-release\Engine\Source\Programs\UnrealHeaderTool\Resources\UHTDebugging\TestObjectSerializers.h">
+      <Filter>Resources\UHTDebugging</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

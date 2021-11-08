@@ -1,0 +1,22 @@
+{
+	"Targets": [
+		{
+			"Name": "LostMemories",
+<<<<<<< HEAD
+			"Path": "D:\\11.5\\LostMemory\\Source\\LostMemories.Target.cs",
+=======
+			"Path": "D:\\11.5\\LostMemories8\\Source\\LostMemories.Target.cs",
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+			"Type": "Game"
+		},
+		{
+			"Name": "LostMemoriesEditor",
+<<<<<<< HEAD
+			"Path": "D:\\11.5\\LostMemory\\Source\\LostMemoriesEditor.Target.cs",
+=======
+			"Path": "D:\\11.5\\LostMemories8\\Source\\LostMemoriesEditor.Target.cs",
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+			"Type": "Editor"
+		}
+	]
+}

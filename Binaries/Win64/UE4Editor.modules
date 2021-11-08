@@ -1,0 +1,11 @@
+{
+	"BuildId": "824593d1-ad89-49d4-b7d2-eb86d2842b4d",
+	"Modules": 
+	{
+<<<<<<< HEAD
+		"LostMemories": "UE4Editor-LostMemories-0001.dll"
+=======
+		"LostMemories": "UE4Editor-LostMemories.dll"
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+	}
+}

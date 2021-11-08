@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LostMemories.uproject" />
+    <Filter Include="Source">
+<<<<<<< HEAD
+      <UniqueIdentifier>{089FCB92-E0CC-4AF5-A3CF-857C64CF41F5}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{6B0C93F9-0708-45D7-9337-F2BAA4F1A41F}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <None Include="..\..\Source\LostMemories.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LostMemoriesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+<<<<<<< HEAD
+      <UniqueIdentifier>{755D5977-FA42-4A9C-BFC6-BE1D46250514}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{23D60118-D1F6-408E-A693-C63DBBC8601F}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LostMemories">
+<<<<<<< HEAD
+      <UniqueIdentifier>{99F9D6A3-738B-4698-B78D-2DFE9CB56BBC}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{31606AAE-C45F-45B3-94F1-47D46EE2946C}</UniqueIdentifier>
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+    </Filter>
+    <None Include="..\..\Source\LostMemories\LostMemories.Build.cs">
+      <Filter>Source\LostMemories</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LostMemories\LostMemories.cpp">
+      <Filter>Source\LostMemories</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostMemories\LostMemories.h">
+      <Filter>Source\LostMemories</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LostMemories\LostMemoriesGameModeBase.cpp">
+      <Filter>Source\LostMemories</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostMemories\LostMemoriesGameModeBase.h">
+      <Filter>Source\LostMemories</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

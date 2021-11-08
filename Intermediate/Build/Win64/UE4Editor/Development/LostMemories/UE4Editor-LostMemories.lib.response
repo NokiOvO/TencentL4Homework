@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LostMemories.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+<<<<<<< HEAD
+"D:\11.5\LostMemory\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemories.cpp.obj"
+"D:\11.5\LostMemory\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemoriesGameModeBase.cpp.obj"
+"D:\11.5\LostMemory\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemories.init.gen.cpp.obj"
+"D:\11.5\LostMemory\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemoriesGameModeBase.gen.cpp.obj"
+"D:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\11.5\LostMemory\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\UE4Editor-LostMemories.lib"
+=======
+"D:\11.5\LostMemories8\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemories.cpp.obj"
+"D:\11.5\LostMemories8\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemoriesGameModeBase.cpp.obj"
+"D:\11.5\LostMemories8\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemories.init.gen.cpp.obj"
+"D:\11.5\LostMemories8\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\LostMemoriesGameModeBase.gen.cpp.obj"
+"D:\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\11.5\LostMemories8\Intermediate\Build\Win64\UE4Editor\Development\LostMemories\UE4Editor-LostMemories.lib"
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192

@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+<<<<<<< HEAD
+		"D:\\11.5\\LostMemory\\Source\\LostMemories\\LostMemories.Build.cs",
+		"D:\\11.5\\LostMemory\\Source\\LostMemories.Target.cs",
+		"D:\\11.5\\LostMemory\\Source\\LostMemoriesEditor.Target.cs"
+=======
+		"D:\\11.5\\LostMemories8\\Source\\LostMemories\\LostMemories.Build.cs",
+		"D:\\11.5\\LostMemories8\\Source\\LostMemories.Target.cs",
+		"D:\\11.5\\LostMemories8\\Source\\LostMemoriesEditor.Target.cs"
+>>>>>>> a4e4bb8efbaa354d3f69307f765b83379fed2192
+	],
+	"EngineVersion": "4.27.1"
+}
